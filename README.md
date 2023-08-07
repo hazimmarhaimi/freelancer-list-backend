@@ -123,7 +123,4 @@ The `FreelancerWebService` API does not require authentication for now. However,
 
 Please ensure that the API is hosted securely using HTTPS to encrypt the data transmitted between the client and the server.
 
-## Contributions
-
-Contributions to the `FreelancerWebService` API are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
