@@ -127,6 +127,3 @@ Please ensure that the API is hosted securely using HTTPS to encrypt the data tr
 
 Contributions to the `FreelancerWebService` API are welcome. If you find any issues or have suggestions for improvements, feel free to create an issue or submit a pull request.
 
----
-
-Please feel free to modify and add more details to this documentation as per your project's specific requirements. Make sure to keep it up-to-date with any changes or new features added to the API.
